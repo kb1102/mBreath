@@ -1,0 +1,260 @@
+,Duration,EventConcept,EventType,Start
+883,5190.0,Wake|0,Stages|Stages,0.0
+884,30.0,Stage 1 sleep|1,Stages|Stages,5190.0
+885,90.0,Wake|0,Stages|Stages,5220.0
+886,60.0,Stage 1 sleep|1,Stages|Stages,5310.0
+887,90.0,Stage 2 sleep|2,Stages|Stages,5370.0
+888,30.0,Stage 1 sleep|1,Stages|Stages,5460.0
+889,90.0,Stage 2 sleep|2,Stages|Stages,5490.0
+890,90.0,Stage 1 sleep|1,Stages|Stages,5580.0
+891,60.0,Stage 2 sleep|2,Stages|Stages,5670.0
+892,30.0,Wake|0,Stages|Stages,5730.0
+893,240.0,Stage 2 sleep|2,Stages|Stages,5760.0
+894,30.0,Stage 1 sleep|1,Stages|Stages,6000.0
+895,690.0,Stage 2 sleep|2,Stages|Stages,6030.0
+896,2700.0,Wake|0,Stages|Stages,6720.0
+897,30.0,Stage 1 sleep|1,Stages|Stages,9420.0
+898,150.0,Stage 2 sleep|2,Stages|Stages,9450.0
+899,30.0,Wake|0,Stages|Stages,9600.0
+900,30.0,Stage 1 sleep|1,Stages|Stages,9630.0
+901,330.0,Stage 2 sleep|2,Stages|Stages,9660.0
+902,30.0,Stage 1 sleep|1,Stages|Stages,9990.0
+903,330.0,Stage 2 sleep|2,Stages|Stages,10020.0
+904,30.0,Stage 1 sleep|1,Stages|Stages,10350.0
+905,270.0,Stage 2 sleep|2,Stages|Stages,10380.0
+906,60.0,Wake|0,Stages|Stages,10650.0
+907,30.0,Stage 1 sleep|1,Stages|Stages,10710.0
+908,150.0,Wake|0,Stages|Stages,10740.0
+909,90.0,Stage 2 sleep|2,Stages|Stages,10890.0
+910,30.0,Wake|0,Stages|Stages,10980.0
+911,30.0,Stage 1 sleep|1,Stages|Stages,11010.0
+912,30.0,Stage 2 sleep|2,Stages|Stages,11040.0
+913,30.0,Stage 1 sleep|1,Stages|Stages,11070.0
+914,30.0,Stage 2 sleep|2,Stages|Stages,11100.0
+915,30.0,Stage 1 sleep|1,Stages|Stages,11130.0
+916,120.0,Stage 2 sleep|2,Stages|Stages,11160.0
+917,90.0,Wake|0,Stages|Stages,11280.0
+918,60.0,Stage 2 sleep|2,Stages|Stages,11370.0
+919,30.0,Wake|0,Stages|Stages,11430.0
+920,30.0,Stage 1 sleep|1,Stages|Stages,11460.0
+921,60.0,Wake|0,Stages|Stages,11490.0
+922,30.0,Stage 2 sleep|2,Stages|Stages,11550.0
+923,30.0,Stage 1 sleep|1,Stages|Stages,11580.0
+924,240.0,Stage 2 sleep|2,Stages|Stages,11610.0
+925,30.0,Wake|0,Stages|Stages,11850.0
+926,90.0,Stage 2 sleep|2,Stages|Stages,11880.0
+927,30.0,Wake|0,Stages|Stages,11970.0
+928,90.0,Stage 2 sleep|2,Stages|Stages,12000.0
+929,60.0,Stage 1 sleep|1,Stages|Stages,12090.0
+930,90.0,Wake|0,Stages|Stages,12150.0
+931,60.0,Stage 2 sleep|2,Stages|Stages,12240.0
+932,30.0,Stage 1 sleep|1,Stages|Stages,12300.0
+933,150.0,Stage 2 sleep|2,Stages|Stages,12330.0
+934,30.0,Stage 1 sleep|1,Stages|Stages,12480.0
+935,90.0,Stage 2 sleep|2,Stages|Stages,12510.0
+936,210.0,REM sleep|5,Stages|Stages,12600.0
+937,30.0,Wake|0,Stages|Stages,12810.0
+938,30.0,REM sleep|5,Stages|Stages,12840.0
+939,900.0,Wake|0,Stages|Stages,12870.0
+940,60.0,Stage 1 sleep|1,Stages|Stages,13770.0
+941,30.0,Wake|0,Stages|Stages,13830.0
+942,30.0,Stage 1 sleep|1,Stages|Stages,13860.0
+943,30.0,Stage 2 sleep|2,Stages|Stages,13890.0
+944,30.0,Stage 1 sleep|1,Stages|Stages,13920.0
+945,60.0,Stage 2 sleep|2,Stages|Stages,13950.0
+946,150.0,Wake|0,Stages|Stages,14010.0
+947,30.0,Stage 2 sleep|2,Stages|Stages,14160.0
+948,30.0,Stage 1 sleep|1,Stages|Stages,14190.0
+949,120.0,Stage 2 sleep|2,Stages|Stages,14220.0
+950,60.0,Stage 1 sleep|1,Stages|Stages,14340.0
+951,390.0,Stage 2 sleep|2,Stages|Stages,14400.0
+952,120.0,Wake|0,Stages|Stages,14790.0
+953,60.0,Stage 1 sleep|1,Stages|Stages,14910.0
+954,120.0,Stage 2 sleep|2,Stages|Stages,14970.0
+955,30.0,Stage 1 sleep|1,Stages|Stages,15090.0
+956,120.0,Stage 2 sleep|2,Stages|Stages,15120.0
+957,30.0,Stage 3 sleep|3,Stages|Stages,15240.0
+958,390.0,Stage 2 sleep|2,Stages|Stages,15270.0
+959,240.0,Wake|0,Stages|Stages,15660.0
+960,60.0,Stage 1 sleep|1,Stages|Stages,15900.0
+961,180.0,Stage 2 sleep|2,Stages|Stages,15960.0
+962,30.0,Wake|0,Stages|Stages,16140.0
+963,330.0,Stage 2 sleep|2,Stages|Stages,16170.0
+964,60.0,Wake|0,Stages|Stages,16500.0
+965,90.0,Stage 2 sleep|2,Stages|Stages,16560.0
+966,30.0,Stage 1 sleep|1,Stages|Stages,16650.0
+967,60.0,Stage 2 sleep|2,Stages|Stages,16680.0
+968,30.0,Stage 1 sleep|1,Stages|Stages,16740.0
+969,30.0,Stage 2 sleep|2,Stages|Stages,16770.0
+970,30.0,Stage 1 sleep|1,Stages|Stages,16800.0
+971,390.0,Stage 2 sleep|2,Stages|Stages,16830.0
+972,30.0,Stage 1 sleep|1,Stages|Stages,17220.0
+973,60.0,Stage 2 sleep|2,Stages|Stages,17250.0
+974,930.0,Wake|0,Stages|Stages,17310.0
+975,30.0,Stage 1 sleep|1,Stages|Stages,18240.0
+976,60.0,Stage 2 sleep|2,Stages|Stages,18270.0
+977,150.0,Stage 1 sleep|1,Stages|Stages,18330.0
+978,60.0,Stage 2 sleep|2,Stages|Stages,18480.0
+979,30.0,Stage 3 sleep|3,Stages|Stages,18540.0
+980,60.0,Stage 2 sleep|2,Stages|Stages,18570.0
+981,30.0,Wake|0,Stages|Stages,18630.0
+982,30.0,Stage 1 sleep|1,Stages|Stages,18660.0
+983,120.0,Stage 2 sleep|2,Stages|Stages,18690.0
+984,30.0,Wake|0,Stages|Stages,18810.0
+985,540.0,Stage 2 sleep|2,Stages|Stages,18840.0
+986,60.0,Wake|0,Stages|Stages,19380.0
+987,60.0,Stage 1 sleep|1,Stages|Stages,19440.0
+988,60.0,Stage 2 sleep|2,Stages|Stages,19500.0
+989,2220.0,Wake|0,Stages|Stages,19560.0
+990,180.0,Stage 1 sleep|1,Stages|Stages,21780.0
+991,210.0,Stage 2 sleep|2,Stages|Stages,21960.0
+992,60.0,Stage 1 sleep|1,Stages|Stages,22170.0
+993,30.0,Wake|0,Stages|Stages,22230.0
+994,30.0,Stage 2 sleep|2,Stages|Stages,22260.0
+995,30.0,Stage 1 sleep|1,Stages|Stages,22290.0
+996,180.0,Stage 2 sleep|2,Stages|Stages,22320.0
+997,30.0,Stage 1 sleep|1,Stages|Stages,22500.0
+998,120.0,Stage 2 sleep|2,Stages|Stages,22530.0
+999,30.0,Stage 1 sleep|1,Stages|Stages,22650.0
+1000,720.0,Stage 2 sleep|2,Stages|Stages,22680.0
+1001,270.0,Wake|0,Stages|Stages,23400.0
+1002,30.0,Stage 1 sleep|1,Stages|Stages,23670.0
+1003,60.0,Stage 2 sleep|2,Stages|Stages,23700.0
+1004,30.0,Wake|0,Stages|Stages,23760.0
+1005,90.0,Stage 1 sleep|1,Stages|Stages,23790.0
+1006,60.0,Stage 2 sleep|2,Stages|Stages,23880.0
+1007,30.0,Stage 1 sleep|1,Stages|Stages,23940.0
+1008,30.0,REM sleep|5,Stages|Stages,23970.0
+1009,30.0,Wake|0,Stages|Stages,24000.0
+1010,30.0,REM sleep|5,Stages|Stages,24030.0
+1011,30.0,Wake|0,Stages|Stages,24060.0
+1012,90.0,REM sleep|5,Stages|Stages,24090.0
+1013,60.0,Wake|0,Stages|Stages,24180.0
+1014,60.0,REM sleep|5,Stages|Stages,24240.0
+1015,60.0,Wake|0,Stages|Stages,24300.0
+1016,90.0,REM sleep|5,Stages|Stages,24360.0
+1017,60.0,Wake|0,Stages|Stages,24450.0
+1018,90.0,Stage 1 sleep|1,Stages|Stages,24510.0
+1019,30.0,REM sleep|5,Stages|Stages,24600.0
+1020,330.0,Wake|0,Stages|Stages,24630.0
+1021,210.0,REM sleep|5,Stages|Stages,24960.0
+1022,30.0,Wake|0,Stages|Stages,25170.0
+1023,720.0,REM sleep|5,Stages|Stages,25200.0
+1024,30.0,Wake|0,Stages|Stages,25920.0
+1025,30.0,Stage 1 sleep|1,Stages|Stages,25950.0
+1026,120.0,Wake|0,Stages|Stages,25980.0
+1027,60.0,Stage 1 sleep|1,Stages|Stages,26100.0
+1028,60.0,Stage 2 sleep|2,Stages|Stages,26160.0
+1029,30.0,Stage 1 sleep|1,Stages|Stages,26220.0
+1030,30.0,Stage 2 sleep|2,Stages|Stages,26250.0
+1031,60.0,Stage 1 sleep|1,Stages|Stages,26280.0
+1032,150.0,Stage 2 sleep|2,Stages|Stages,26340.0
+1033,30.0,Stage 1 sleep|1,Stages|Stages,26490.0
+1034,30.0,Stage 2 sleep|2,Stages|Stages,26520.0
+1035,30.0,Stage 1 sleep|1,Stages|Stages,26550.0
+1036,30.0,Stage 2 sleep|2,Stages|Stages,26580.0
+1037,60.0,Stage 1 sleep|1,Stages|Stages,26610.0
+1038,90.0,Wake|0,Stages|Stages,26670.0
+1039,90.0,Stage 1 sleep|1,Stages|Stages,26760.0
+1040,30.0,Stage 2 sleep|2,Stages|Stages,26850.0
+1041,30.0,Wake|0,Stages|Stages,26880.0
+1042,30.0,Stage 1 sleep|1,Stages|Stages,26910.0
+1043,30.0,Stage 2 sleep|2,Stages|Stages,26940.0
+1044,90.0,Stage 1 sleep|1,Stages|Stages,26970.0
+1045,660.0,Stage 2 sleep|2,Stages|Stages,27060.0
+1046,30.0,Stage 3 sleep|3,Stages|Stages,27720.0
+1047,270.0,Wake|0,Stages|Stages,27750.0
+1048,30.0,Stage 2 sleep|2,Stages|Stages,28020.0
+1049,30.0,Stage 1 sleep|1,Stages|Stages,28050.0
+1050,30.0,Wake|0,Stages|Stages,28080.0
+1051,330.0,Stage 2 sleep|2,Stages|Stages,28110.0
+1052,30.0,Stage 3 sleep|3,Stages|Stages,28440.0
+1053,900.0,Stage 2 sleep|2,Stages|Stages,28470.0
+1054,60.0,Stage 3 sleep|3,Stages|Stages,29370.0
+1055,120.0,Stage 2 sleep|2,Stages|Stages,29430.0
+1056,30.0,Stage 3 sleep|3,Stages|Stages,29550.0
+1057,60.0,Stage 2 sleep|2,Stages|Stages,29580.0
+1058,120.0,Stage 3 sleep|3,Stages|Stages,29640.0
+1059,30.0,Stage 2 sleep|2,Stages|Stages,29760.0
+1060,30.0,Stage 3 sleep|3,Stages|Stages,29790.0
+1061,30.0,Stage 2 sleep|2,Stages|Stages,29820.0
+1062,60.0,Stage 3 sleep|3,Stages|Stages,29850.0
+1063,60.0,Stage 2 sleep|2,Stages|Stages,29910.0
+1064,150.0,Stage 3 sleep|3,Stages|Stages,29970.0
+1065,30.0,Stage 2 sleep|2,Stages|Stages,30120.0
+1066,30.0,Wake|0,Stages|Stages,30150.0
+1067,30.0,Stage 1 sleep|1,Stages|Stages,30180.0
+1068,30.0,Stage 2 sleep|2,Stages|Stages,30210.0
+1069,90.0,Wake|0,Stages|Stages,30240.0
+1070,150.0,Stage 2 sleep|2,Stages|Stages,30330.0
+1071,30.0,Stage 1 sleep|1,Stages|Stages,30480.0
+1072,330.0,Stage 2 sleep|2,Stages|Stages,30510.0
+1073,210.0,REM sleep|5,Stages|Stages,30840.0
+1074,30.0,Wake|0,Stages|Stages,31050.0
+1075,30.0,Stage 1 sleep|1,Stages|Stages,31080.0
+1076,120.0,REM sleep|5,Stages|Stages,31110.0
+1077,30.0,Wake|0,Stages|Stages,31230.0
+1078,30.0,Stage 1 sleep|1,Stages|Stages,31260.0
+1079,30.0,Stage 2 sleep|2,Stages|Stages,31290.0
+1080,30.0,Wake|0,Stages|Stages,31320.0
+1081,30.0,Stage 1 sleep|1,Stages|Stages,31350.0
+1082,30.0,Stage 2 sleep|2,Stages|Stages,31380.0
+1083,60.0,Stage 1 sleep|1,Stages|Stages,31410.0
+1084,120.0,Stage 2 sleep|2,Stages|Stages,31470.0
+1085,60.0,REM sleep|5,Stages|Stages,31590.0
+1086,30.0,Wake|0,Stages|Stages,31650.0
+1087,60.0,Stage 1 sleep|1,Stages|Stages,31680.0
+1088,30.0,Wake|0,Stages|Stages,31740.0
+1089,30.0,Stage 1 sleep|1,Stages|Stages,31770.0
+1090,60.0,Stage 2 sleep|2,Stages|Stages,31800.0
+1091,30.0,Stage 1 sleep|1,Stages|Stages,31860.0
+1092,90.0,Stage 2 sleep|2,Stages|Stages,31890.0
+1093,30.0,Wake|0,Stages|Stages,31980.0
+1094,30.0,Stage 1 sleep|1,Stages|Stages,32010.0
+1095,90.0,Stage 2 sleep|2,Stages|Stages,32040.0
+1096,30.0,Stage 1 sleep|1,Stages|Stages,32130.0
+1097,210.0,Stage 2 sleep|2,Stages|Stages,32160.0
+1098,30.0,Stage 1 sleep|1,Stages|Stages,32370.0
+1099,30.0,Stage 2 sleep|2,Stages|Stages,32400.0
+1100,60.0,Stage 1 sleep|1,Stages|Stages,32430.0
+1101,90.0,Stage 2 sleep|2,Stages|Stages,32490.0
+1102,30.0,Wake|0,Stages|Stages,32580.0
+1103,60.0,Stage 1 sleep|1,Stages|Stages,32610.0
+1104,30.0,Stage 2 sleep|2,Stages|Stages,32670.0
+1105,30.0,Wake|0,Stages|Stages,32700.0
+1106,30.0,Stage 1 sleep|1,Stages|Stages,32730.0
+1107,60.0,Stage 2 sleep|2,Stages|Stages,32760.0
+1108,60.0,Stage 1 sleep|1,Stages|Stages,32820.0
+1109,60.0,Stage 2 sleep|2,Stages|Stages,32880.0
+1110,90.0,Stage 1 sleep|1,Stages|Stages,32940.0
+1111,120.0,Stage 2 sleep|2,Stages|Stages,33030.0
+1112,30.0,Stage 1 sleep|1,Stages|Stages,33150.0
+1113,30.0,Stage 2 sleep|2,Stages|Stages,33180.0
+1114,90.0,Stage 1 sleep|1,Stages|Stages,33210.0
+1115,60.0,Stage 2 sleep|2,Stages|Stages,33300.0
+1116,120.0,Stage 1 sleep|1,Stages|Stages,33360.0
+1117,30.0,Stage 2 sleep|2,Stages|Stages,33480.0
+1118,30.0,Stage 1 sleep|1,Stages|Stages,33510.0
+1119,210.0,Stage 2 sleep|2,Stages|Stages,33540.0
+1120,60.0,Stage 1 sleep|1,Stages|Stages,33750.0
+1121,30.0,Stage 2 sleep|2,Stages|Stages,33810.0
+1122,30.0,Wake|0,Stages|Stages,33840.0
+1123,180.0,Stage 1 sleep|1,Stages|Stages,33870.0
+1124,90.0,REM sleep|5,Stages|Stages,34050.0
+1125,30.0,Wake|0,Stages|Stages,34140.0
+1126,90.0,REM sleep|5,Stages|Stages,34170.0
+1127,30.0,Wake|0,Stages|Stages,34260.0
+1128,30.0,REM sleep|5,Stages|Stages,34290.0
+1129,30.0,Wake|0,Stages|Stages,34320.0
+1130,60.0,REM sleep|5,Stages|Stages,34350.0
+1131,30.0,Stage 1 sleep|1,Stages|Stages,34410.0
+1132,30.0,REM sleep|5,Stages|Stages,34440.0
+1133,30.0,Wake|0,Stages|Stages,34470.0
+1134,30.0,Stage 1 sleep|1,Stages|Stages,34500.0
+1135,30.0,Wake|0,Stages|Stages,34530.0
+1136,120.0,Stage 1 sleep|1,Stages|Stages,34560.0
+1137,2070.0,Wake|0,Stages|Stages,34680.0
+1138,120.0,Stage 1 sleep|1,Stages|Stages,36750.0
+1139,1140.0,Stage 2 sleep|2,Stages|Stages,36870.0
+1140,150.0,REM sleep|5,Stages|Stages,38010.0
+1141,5010.0,Wake|0,Stages|Stages,38160.0
